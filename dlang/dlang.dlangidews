@@ -1,0 +1,9 @@
+{
+    "name": "dlang",
+    "description": null,
+    "projects": {
+        "cdlipid1": "cdlipid1/dub.json"
+    },
+    "includePath": {
+    }
+}
